@@ -112,7 +112,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 *   One of the best reasons to choose 1-800-PACK-RAT for your local move is for the moving containers themselves. Their steel construction and barn-style doors offer solid protection for your belongings while offering you more interior space than a container with roll-up doors (like those offered by PODS).
 
-# [Pack RAt](https://www.wowmover.com/PACK-RAT/)
+# [Pack Rat](https://www.wowmover.com/PACK-RAT/)
 
  
 
