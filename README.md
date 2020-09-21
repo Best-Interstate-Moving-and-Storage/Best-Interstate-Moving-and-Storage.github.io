@@ -11,9 +11,9 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 **Xfinity Moving Services**
 
-*   Commercial Moving
-*   Residential Moving
-*   Auto Transport
+*   [Commercial Moving](https://www.xfinitymoving.com/commercial-business-moving/)
+*   [Residential Moving](https://www.xfinitymoving.com/residential-moving/)
+*   [Auto Transport](https://www.xfinitymoving.com/auto-transportation/)
 *   Offers local, commercial, and corporate moving. We also offer storage services, including packing and crating services.
 *   Deposit required to reserve a move while most other providers are 33% – 50%.
 *   No minimum weight required to reserve a move.
@@ -22,7 +22,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 *   Cable video, internet, phone, security and cell phone services can be bundled in with your move.
 *   The vast majority of 40+ states serviced for pick up. This is our second recommendation from all these local moving companies.
 
-[Xfinity Moving](https://www.wowmover.com/xfinity-moving/)
+# [Xfinity Moving](https://www.wowmover.com/xfinity-moving/)
 
  
 
@@ -36,7 +36,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 *   College Hunks Hauling Junk and Moving is the only national full-service mover. We also specialize in junk and donation removal.
 *   In addition to offering a comprehensive list of packing and moving services. We offer what we think is the best solution if you need to dispose of some junk or donate any unwanted belongings during your move. This is our third recommendation from all these local moving companies.
 
-[Coolege Hunks Moving](https://www.wowmover.com/college-hunks-moving)
+# [College Hunks Moving](https://www.wowmover.com/college-hunks-moving)
 
  
 
@@ -47,7 +47,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 *   TWO MEN AND A TRUCK is a full-service mover with over 380 locations and 2,300 trucks worldwide. Although it started as an after-school business by two high school students in the 1980s. This company has become one of the most well-respected and customer-focused movers in the country.
 
-[Two Men And A Truck Prices](https://www.wowmover.com/two-men-and-a-truck/)
+# [Two Men And A Truck Prices](https://www.wowmover.com/two-men-and-a-truck/)
 
  
 
@@ -59,7 +59,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 *   All My Sons Moving and Storage is a family-owned-and-operated moving company with more than four generations of moving know-how at its disposal.
 *   Although its locations are limited, we feel that its comprehensive list of moving services, commitment to customer service, and long history in the moving business. This is one good option to consider for your local move.
 
-[All Mysons Storage](https://www.wowmover.com/all-my-sons-moving-storage/)
+# [All Mysons Storage](https://www.wowmover.com/all-my-sons-moving-storage/)
 
  
 
@@ -70,7 +70,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 *   As we mentioned before, U-Haul is a household name in the moving industry—and for good reason. U-Haul is the oldest and most popular option for moving truck rentals and offers five truck sizes to accommodate any-sized local move.
 
-[U-Haul](https://www.wowmover.com/u-haul/)
+# [U-Haul](https://www.wowmover.com/u-haul/)
 
  
 
@@ -81,7 +81,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 *   PODS, short for Portable On Demand Storage, is one of the largest and most popular storage container companies in the business. We like PODS because it offers some of the highest-quality containers in the industry and has plenty of container options to suit any sized local move.
 
-[Portable On Demand](https://www.wowmover.com/portable-in-demand/)
+# [Portable On Demand](https://www.wowmover.com/portable-in-demand/)
 
  
 
@@ -92,7 +92,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 *   Availability aside, Budget is a great option if you’re hoping to save some money on your local move. Although you may have to pay more for add-ons like appliance dollies and furniture pads, you’ll likely pay less at Budget than another truck rental company if you forego these options.
 
-[Budget Truck Rental](https://www.wowmover.com/budget-truck-rental/)
+# [Budget Truck Rental](https://www.wowmover.com/budget-truck-rental/)
 
  
 
@@ -103,7 +103,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 *   One of the best reasons to choose 1-800-PACK-RAT for your local move is for the moving containers themselves. Their steel construction and barn-style doors offer solid protection for your belongings while offering you more interior space than a container with roll-up doors (like those offered by PODS).
 
-[Pack RAt](https://www.wowmover.com/PACK-RAT/)
+# [Pack RAt](https://www.wowmover.com/PACK-RAT/)
 
  
 
@@ -114,6 +114,6 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 *   Penske Truck Rental is the third-largest truck rental company in the country. Although its fleet of trucks is among the newest in the industry, we’ve found that local movers may end up paying a bit more with Penske than with either U-Haul or Budget Truck Rental.
 
-[Penske](https://www.wowmover.com/pensake-truck-rental)
+# [Penske](https://www.wowmover.com/pensake-truck-rental)
 
  
