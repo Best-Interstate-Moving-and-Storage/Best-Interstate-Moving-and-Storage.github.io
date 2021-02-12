@@ -85,7 +85,7 @@ Xfinity Moving is a moving brokerage company, they have partnered with the best 
 
 ![](https://www.wowmover.com/wp-content/uploads/2018/08/podsLogo.png)
 
-*   PODS, short for Portable On Demand Storage, is one of the largest and most popular storage container companies in the business. We like PODS because it offers some of the highest-quality containers in the industry and has plenty of container options to suit any sized local move.
+*   PODS, short for Portable On Demand Storage, is one of the largest and most popular [storage container companies](https://www.wowmover.com/best-moving-containers/) in the business. We like PODS because it offers some of the highest-quality containers in the industry and has plenty of container options to suit any sized local move.
 
 # [Portable On Demand](https://www.wowmover.com/portable-in-demand/)
 
